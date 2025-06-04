@@ -61,7 +61,9 @@ my-website/
 │   ├── App.js
 │   ├── App.css
 │   ├── index.js
-│   └── index.css
-
+│   ├── index.css
+    ├── App.test.js
+    ├── reportWebVitals.js
+    ├── setupTests.js
 
 
