@@ -1,4 +1,4 @@
-# What my project does:
+# What my project does and necessary details
 This is a Solar-based company,SolarForce's website. 
 
 SolarForce builds innovative eco-friendly energy solutions in form of solar and LED products and various projects. This website has Home, About, Services and Contact pages.
@@ -16,4 +16,52 @@ The Services page has list of our services with button links to our products and
 The Products and Projects page consist of various products and projects respectively with specifications.
 
 At last, the Contacts Page has my contact number, address and a link called "Email Us" clicking on which directs us to email compose box sending email to my gmail id tarunkadam0806@gmail.com.
+
+# Structure of the files and folders
+my-website/
+├── src/
+│   ├── assets/
+│   │   ├── about_bg,jpg
+│   │   ├── contact_bg,jpg
+│   │   ├── home_bg.jpg
+│   │   ├── Product_1.jpg
+│   │   ├── Product_2jpg
+│   │   ├── Product_3.jpg
+│   │   ├── products_bg.jpg
+│   │   ├── Project_1.jpg
+│   │   ├── Project_2.jpg
+│   │   ├── Project_3.jpg
+│   │   ├── Project_4.jpg
+│   │   ├── projects_bg.jpg
+│   │   ├── services_bg.jpg
+│   │   ├── Slider_1.jpg
+│   │   ├── Slider_2.jpg
+│   │   ├── Slider_3.jpg
+│   │   └── Slider_4.jpg 
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Navbar.css
+│   │   ├── Footer.js
+│   │   ├── Header.js
+│   │   ├── BottomNavbar.js
+│   │   ├── Carousel.jsx
+│   │   ├── BottomNavbar.css
+│   │   ├── Carousel.css
+│   │   └── Header.css
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── About.js
+│   │   ├── Contact.js
+│   │   ├── Services.js
+│   │   ├── Projects.js
+│   │   ├── Products.js
+│   │   ├── Home.css
+│   │   ├── About.css
+│   │   └── Services.css
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+
+
 
